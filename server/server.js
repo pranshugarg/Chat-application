@@ -65,3 +65,5 @@ io.on('connection', (socket) => {
 server.listen(port, () => {
   console.log(`Server is up on ${port}`);
 });
+// <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
